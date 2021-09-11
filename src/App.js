@@ -17,6 +17,7 @@ function App() {
         >
           Namaste World :)
         </a>
+        <p>See you are in Dev Environment. So keep playing.</p>
       </header>
     </div>
   );
